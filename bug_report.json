@@ -1,1 +1,15 @@
-
+{
+"Assignee" : Andrey;
+"Reporter": Oleg;
+ "URL": https://habr.com
+"Environment" :Chrome Version 112.0.5615.138
+"Story Points" 1
+"Sprint": 5 
+"Priority": Medium
+"Description": send button doesn't work
+"STR": 1. go to the url
+2. fill out the web form
+3. click on the send button
+"Actual result": web form not submitted
+"Expected result": web form sent
+}
